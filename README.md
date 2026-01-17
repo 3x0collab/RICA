@@ -27,5 +27,5 @@ While the main banking app handles live money, **RICA** handles the compliance a
 ### 📸 Interface Preview
 *(The dashboard where Compliance Officers schedule and download reports)*
 
-![RICA Dashboard](RICA/Screenshot%202025-10-27%20150634.png)
+![RICA Dashboard](Screenshot%202025-10-27%20150634.png)
 *Report generation dashboard showing status and download options.*
